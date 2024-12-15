@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1734086653 source:c:\users\bogpl\documents\c++\platformergame\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<SFML/Graphics.hpp>
+	"Levels/l1.h"
+	<math.h>
+
+1734086294 c:\users\bogpl\documents\c++\platformergame\levels\l1.h
+
